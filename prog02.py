@@ -1,0 +1,2 @@
+message = "Анечка"
+print(message)
